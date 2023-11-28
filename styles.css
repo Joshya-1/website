@@ -1,0 +1,30 @@
+body{
+    /* background-image: url(https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(https://images.pexels.com/photos/2109756/pexels-photo-2109756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
+    background-image: url(https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+#tom{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkred;
+    font-size: xx-large;
+    margin: 100px 400px 0px 400px;
+    padding: 100px 0px 0px 0px;
+}
+#lof{
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkred;
+    font-size: xx-large;
+    margin: 0px 100px 0px 500px;
+    padding: 50px 0px 0px 0px;
+}
+.tvl{
+    width: 20px;
+    margin: 50px 500px;
+}
+#lets{
+    width: 250px;
+}
+

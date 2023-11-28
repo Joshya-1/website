@@ -1,0 +1,55 @@
+#logo{
+    width: 5em;
+    margin: 1em 1em 1em 77em;
+}
+.o_body{
+    /* background-size: 85em; */
+    background-image: url(https://images.pexels.com/photos/948413/pexels-photo-948413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    
+}
+#right{
+    text-align: right;
+}
+#o_about{
+    color: rgb(0, 8, 12);
+    padding: 0.5em;
+    margin: 1em 2em 1em 45em;
+    border-radius: 1em;
+    border: 0.1em solid;
+    border-color: rgb(99, 96, 96);
+    background-color: snow;
+    
+    
+}
+#k_Things{
+    color: rgb(0, 8, 12);
+    padding: 0.5em;
+    margin: 1em 2em 1em 45em;
+    border-radius: 1em;
+    border: 0.1em solid;
+    border-color: rgb(99, 96, 96);
+    background-color: snow;
+    
+}
+#k_hotels{
+    color: rgb(0, 8, 12);
+    padding: 0.5em;
+    margin: 1em 2em 1em 45em;
+    border-radius: 1em;
+    border: 0.1em solid;
+    border-color: rgb(99, 96, 96);
+    background-color: snow;
+}
+
+#k_contact{
+    color: rgb(0, 8, 12);
+    padding: 0.5em;
+    margin: 2em 2em 2em 45em;
+    border-radius: 1.5em;
+    border: 0.1em solid;
+    border-color: rgb(99, 96, 96);
+    background-color: snow;
+    
+}
+

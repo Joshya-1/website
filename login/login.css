@@ -1,0 +1,37 @@
+#loginform{
+    /* background-color: rgba(0, 128, 0, 0.753); */
+    background-color: rgba(250, 235, 215, 0.692);
+    padding: 10px 100px 10px 100px;
+    margin: 150px 350px 100px 350px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border: 20px solid rgb(230, 221, 221) ;
+    color: rgb(2, 31, 2);
+    border-radius: 10px 10px 10px 10px;
+    
+}
+#formbody{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+}
+#sub{
+    padding: 10px 10px 10px 10px;
+    /* border: 2px solid wheat; */
+    border-radius: 50px 50px 50px 50px;
+}
+#forget{
+    padding: 10px 10px 10px 70px;
+    
+}
+#un{
+    padding: 10px 10px 10px 10px;
+    border: 5px solid wheat;
+}
+#pwd{
+    padding: 10px 10px 10px 10px;
+    border: 5px solid wheat;
+}
+#subbtn{
+    width: 50px;
+}

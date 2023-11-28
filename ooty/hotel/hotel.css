@@ -1,0 +1,65 @@
+#o_hotel{
+    
+    background-image: url(https://images.pexels.com/photos/2540653/pexels-photo-2540653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    max-height: 12px;
+    width: auto;
+    color: rgb(16, 164, 223);
+}
+#stay{
+    /* background-color: rgb(85, 2, 2); */
+    background-color: rgb(4, 18, 66);
+    color: rgb(252, 250, 250);
+    border: 1px solid; 
+    margin: 100px 25px 750px 515px;
+    text-align: justify;
+    padding: 5px;
+    font-size: larger;
+    border-radius: 25px;
+    /* background-size: auto; */
+    text-transform: capitalize;
+}
+#pts{
+    text-align: center;
+}
+.page3{
+    padding: 25px;
+    font-size: larger;
+
+}
+#about3{
+    padding: 2px;
+    margin: 10px 40px 15px 40px;
+    background-color: rgba(5, 26, 94, 0.829);
+}
+#things3{
+    padding: 5px;
+    margin: 10px 40px 15px 40px;
+    background-color: rgba(5, 26, 94, 0.829);
+}
+#hotels3{
+    padding: 5px;
+    margin: 10px 40px 15px 40px;
+    background-color: rgb(4, 18, 66);
+}
+#contact3{
+    padding: 5px;
+    margin: 10px 40px 15px 40px;
+    background-color: rgba(5, 26, 94, 0.829);
+}
+a:visited{
+    color: rgb(247, 147, 16);
+}
+a:hover{
+    color: rgb(157, 255, 0);
+}
+a:active{
+    color: white;
+    
+}
+a:link{
+    color: rgb(252, 21, 98);
+}

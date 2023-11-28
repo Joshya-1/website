@@ -1,0 +1,69 @@
+#phonecall{
+    width: 25px;
+}
+#whatsapp{
+    width: 25px;
+}
+#mail{
+    width: 25px;
+}
+#design{
+    background-size:auto;
+    background-color: rgba(252, 237, 210, 0.596);
+    color: rgb(207, 5, 5);
+    margin: 100px 800px 100px 10px;
+    text-align: justify; 
+    padding: 5px;
+    font-size: larger;
+    border-radius: 25px; 
+}
+#o_contact{
+    /* background-color: green; */
+    background-image:url(https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    text-align: right;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    max-height: 12px;
+    width: auto;
+}
+#git{
+    text-align: center;
+}
+.page4{
+    padding: 25px;
+}
+#about4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color:rgb(252, 237, 210) ;
+}
+#things4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color:rgb(252, 237, 210) ;
+}
+#hotels4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgb(252, 237, 210);
+}
+#contact4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgba(252, 237, 210, 0.596);
+}
+a:visited{
+    color: rgb(224, 76, 8);
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: white;
+    
+}
+a:link{
+    color: rgb(3, 83, 30);
+}

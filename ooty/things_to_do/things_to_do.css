@@ -1,0 +1,95 @@
+#o_todo{
+    /* background-image: url(https://images.pexels.com/photos/730256/pexels-photo-730256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
+    background-image: url(https://images.pexels.com/photos/533769/pexels-photo-533769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    /* max-height: 10em; */
+    width: auto;
+}
+#o_to_do{
+    background-color:rgb(149, 206, 228);
+    color: rgb(5, 5, 95);
+    margin: 1em 10em 1em 17em;
+    text-align: justify;
+    padding: 1em;
+    font-size: x-large;
+    border-radius: 1em;
+}
+#train{
+    width: 500px;
+}
+#waterfalls{
+    width: 500px;
+}
+#museum{
+    width: 500px;
+}
+#garden{
+    width: 500px;
+}
+#park{
+    width: 500px;
+}
+#train{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#waterfalls{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#museum{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#garden{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#park{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+.page2{
+    padding: 15px;
+}
+#about2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(200, 231, 253);
+}
+#things2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(149, 206, 228);
+}
+#hotels2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(200, 231, 253);
+}
+#contact2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(200, 231, 253);
+}
+a:visited{
+    color: rgb(6, 163, 6);
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: white;
+    
+}
+a:link{
+    color: rgb(1, 25, 34);
+}

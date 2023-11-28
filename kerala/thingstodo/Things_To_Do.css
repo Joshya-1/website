@@ -1,0 +1,94 @@
+#todo{
+    background-image: url(things_to_do2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    /* max-height: 10em; */
+    width: auto;
+}
+#to_do{
+    background-color:rgb(245, 221, 8);
+    color: rgb(5, 5, 95);
+    margin: 1em 10em 1em 17em;
+    text-align: justify;
+    padding: 1em;
+    font-size: x-large;
+    border-radius: 1em;
+}
+#bloom{
+    width: 500px;
+}
+#tea{
+    width: 500px;
+}
+#house{
+    width: 500px;
+}
+#shikara{
+    width: 500px;
+}
+#boat{
+    width: 500px;
+}
+#bloom{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#tea{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#house{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#shikara{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+#boat{
+    width: 350px;
+    margin: 5px 100px 5px;
+    border-radius: 6px;
+}
+.page2{
+    padding: 15px;
+}
+#about2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(245, 251, 8);
+}
+#things2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(245, 221, 8);
+}
+#hotels2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(245, 251, 8);
+}
+#contact2{
+    padding: 5px;
+    margin: 10px 15px 15px 20px;
+    background-color:rgb(240, 251, 8);
+}
+a:visited{
+    color: rgb(3, 34, 3);
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: white;
+    
+}
+a:link{
+    color: rgb(21, 186, 252);
+}

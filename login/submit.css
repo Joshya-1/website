@@ -1,0 +1,81 @@
+
+#loc1{
+    border: 2px solid rgb(306, 56, 46);
+    height: 195px;
+    width: 290px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+    
+}
+#kerala{
+    width: 290px;
+    margin: 0px 0px 10px 0px;
+    border: 0px solid;
+    border-radius: 10px 10px 0px 0px;
+}
+#kl{
+    margin: 0px 0px 0px 0px ;
+    padding: 10px 131.5px 1.5px 106px;
+    background-color: rgb(206, 26, 26);
+    color: black;
+    font-size: larger;
+    text-align: center;
+    border-color: rgb(506, 16, 26);
+    border: 0.5px solid  rgb(506, 16, 26) ;
+    border-radius:0px 0px 8px 8px;
+}
+#loc2{
+    border: 2px solid rgb(17, 229, 17);
+    height: 225px;
+    width: 290px;
+    margin:100px  auto;
+    border-radius: 10px;
+}
+#ooty{
+    width: 290px;
+    margin: 0px 0px 10px 0px;
+    border: 0px solid;
+    border-radius: 5px 5px 0px 0px;
+}
+#ol{
+    
+    margin: 0px 0px 0px 0px ;
+    padding: 10px 144px 1.7px 108px;
+    background-color: rgb(27, 129, 27);
+    color: black;
+    font-size: larger;
+    text-align: center;
+    border: 0.5px solid rgb(27, 159, 27);
+    border-color: rgb(27, 199, 27);
+    border-radius: 0px 0px 8px 8px;
+}
+#location{
+    margin: 0px 305px 0px 305px;
+    border: 2px solid yellow;
+    background-color: rgb(146, 146, 243);
+    background-attachment: fixed;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    margin: 100px;
+    border: 4px solid;
+    border-radius: 100px;
+    border-color: rgb(11, 240, 11);
+    background-color: rgb(105, 204, 105);
+    color:darkblue;
+}
+
+#main{
+    /* background-color: rgb(108, 241, 81); */
+    background-image: url(https://images.pexels.com/photos/2161449/pexels-photo-2161449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    /* max-height: 0.9em; */
+    width: auto;
+    color: rgb(3, 47, 65);
+    border-radius: 5px;
+}

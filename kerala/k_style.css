@@ -1,0 +1,56 @@
+#logo{
+    width: 5em;
+    margin: 1em 1em 1em 77em;
+}
+.k_body{
+    /* background-size: 85em; */
+    /* background-image: url(/kerala/kbgi.jpeg); */
+    background-image: url(https://images.pexels.com/photos/8462313/pexels-photo-8462313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    
+}
+#right{
+    text-align: right;
+}
+#k_about{
+    color: skyblue;
+    padding: 0.5em;
+    margin: 1em 2em 1em 15em;
+    border-radius: 1em;
+    border: 1em green;
+    border-color: green;
+    background-color: green;
+    
+    
+}
+#k_Things{
+    color: skyblue;
+    padding: 0.5em;
+    margin: 1em 2em 1em 15em;
+    border-radius: 1em;
+    border: 0.1em solid;
+    border-color: green;
+    background-color: green;
+    
+}
+#k_hotels{
+    color: skyblue;
+    padding: 0.5em;
+    margin: 1em 2em 1em 15em;
+    border-radius: 1em;
+    border: 0.1em solid;
+    border-color: green;
+    background-color: green;
+}
+
+#k_contact{
+    color: skyblue;
+    padding: 0.5em;
+    margin: 2em 2em 2em 15em;
+    border-radius: 1.5em;
+    border: 0.1em solid;
+    border-color: green;
+    background-color: green;
+    
+}
+

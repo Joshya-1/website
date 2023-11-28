@@ -1,0 +1,69 @@
+#phonecall{
+    width: 25px;
+}
+#whatsapp{
+    width: 25px;
+}
+#mail{
+    width: 25px;
+}
+#design{
+    background-size:auto;
+    background-color: rgb(1, 29, 1);
+    color: rgb(207, 5, 5);
+    margin: 100px 800px 100px 10px;
+    text-align: justify; 
+    padding: 5px;
+    font-size: larger;
+    border-radius: 25px; 
+}
+#contact{
+    /* background-color: green; */
+    background-image:url(contactus.jpeg);
+    text-align: right;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-clip: content-box;
+    max-height: 12px;
+    width: auto;
+}
+#git{
+    text-align: center;
+}
+.page4{
+    padding: 25px;
+}
+#about4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgb(1, 10, 1);
+}
+#things4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgb(1, 10, 1);
+}
+#hotels4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgb(1, 10, 1);
+}
+#contact4{
+    padding: 5px;
+    margin: 10px 10px 15px 20px;
+    background-color: rgb(1, 29, 1);
+}
+a:visited{
+    color: greenyellow;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: white;
+    
+}
+a:link{
+    color: rgb(21, 186, 252);
+}

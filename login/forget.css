@@ -1,0 +1,36 @@
+#fp{
+    /* background-color: rgba(0, 128, 0, 0.753); */
+    background-color: rgb(18, 35, 223);
+    padding: 10px 100px 10px 100px;
+    margin: 150px 350px 100px 550px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border: 20px solid rgb(29, 7, 199) ;
+    color: rgb(2, 31, 2);
+    border-radius: 10px 10px 10px 10px;
+    
+}
+#forget_password{
+    background-image: url(https://watermark.lovepik.com/photo/50054/1552.jpg_wh1200.jpg);
+    background-size: cover;
+}
+#sub{
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px 5px 5px 5px;
+}
+#np{
+    padding: 10px 10px 10px 10px;
+    border: 5px solid rgb(7, 105, 218);
+    margin: 50px 50px 25px 50px;
+}
+#cp{
+    padding: 10px 10px 10px 10px;
+    border: 5px solid rgb(8, 104, 182);
+    margin: 1px 50px 25px 50px;
+}
+#sub{
+    width: 100px;
+    border: 5px solid rgb(5, 54, 94);
+    
+}
